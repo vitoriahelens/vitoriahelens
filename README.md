@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Magazord Digital Commerce as DevOps Analyst
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Python
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
