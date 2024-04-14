@@ -5,9 +5,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-| ![vitoriahelens's github stats](https://github-readme-stats.vercel.app/api?username=vitoriahelens&theme=tokyonight&show_icons=true)             | ![vitoriahelens GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitoriahelens&theme=tokyonight)                                                                                                           |
+| ![vitoriahelens's github stats](https://github-readme-stats.vercel.app/api?username=vitoriahelens&theme=tokyonight&show_icons=true)             |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriahelens&theme=tokyonight&langs_count=8&layout=compact)                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriahelens&theme=tokyonight&langs_count=8&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vitoriahelens&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
